@@ -1,16 +1,18 @@
-## Hi there 👋
+# Anis Rahaman
 
-<!--
-**rahaman-anis/rahaman-anis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior product leader working at the intersection of AI, data, and enterprise software.
 
-Here are some ideas to get you started:
+This GitHub profile brings together selected applied AI prototypes, technical experiments, and research-linked projects. My work is shaped by both product thinking and technical curiosity, with a focus on building practical systems, exploring emerging ideas, and documenting them clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+
+- Applied AI prototypes, including agent orchestration, retrieval-augmented systems, and knowledge support tools
+- Technical experiments covering architecture choices, evaluation approaches, and design trade-offs
+- Research-informed projects focused on AI governance, human-AI collaboration, and responsible deployment
+
+## Current interests
+
+- AI agents and orchestration in enterprise settings
+- Evaluation methods for knowledge-intensive AI applications
+- Retrieval and memory architectures for decision support
+- Responsible AI deployment in regulated environments
