@@ -1,8 +1,8 @@
 # Anis Rahaman
 
-Senior product leader working at the intersection of AI, data, and enterprise software.
+Senior product leader in AI, data, and enterprise software.
 
-This GitHub profile brings together selected applied AI prototypes, technical experiments, and research-linked projects. My work is shaped by both product thinking and technical curiosity, with a focus on building practical systems, exploring emerging ideas, and documenting them clearly.
+This GitHub profile brings together selected applied AI prototypes, technical experiments, and research-informed projects. My work combines product thinking with technical curiosity, with a focus on building practical systems, testing ideas, and documenting them clearly.
 
 ## What you'll find here
 
